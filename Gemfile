@@ -9,6 +9,7 @@ gem 'turbolinks'
 gem 'jbuilder', '~> 1.2'
 gem 'bootstrap-sass'
 gem 'simple_form', '>= 3.0.0.rc'
+gem 'devise'
 
 group :test, :development do
   gem 'rspec-rails', '~> 2.9'
